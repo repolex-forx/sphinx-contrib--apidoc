@@ -1,0 +1,11 @@
+{
+  "org": "sphinx-contrib",
+  "repo": "apidoc",
+  "versions": [
+    {
+      "commit": "d47f8b3120da82ed0827f5d5f68ccabba537a629",
+      "tag": "",
+      "parsed_at": "2026-11-06T18:18:38.179875+00:00"
+    }
+  ]
+}
